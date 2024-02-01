@@ -28,6 +28,9 @@
     height: 10vh;
 
 }
+li{
+    list-style: none;
+}
 .logo{
     color: white;
     
@@ -265,9 +268,12 @@ color: white;
 }
 .team-text h1{
      color: black;
-     margin-bottom: 3rem;
+  
      margin-top: 1rem;
      font-size: 35px;
+}
+.team-text p{
+   margin-bottom: 3rem;
 }
 
 .agent{
